@@ -139,6 +139,7 @@ GEM
       nokogiri (~> 1)
       rake
     mini_mime (1.1.1)
+    mini_portile2 (2.8.2)
     minitest (5.18.1)
     msgpack (1.4.2)
     multipart-post (2.1.1)
@@ -207,7 +208,8 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.2)
+    sqlite3 (1.6.3)
+      mini_portile2 (~> 2.8.0)
     terrapin (0.6.0)
       climate_control (>= 0.0.3, < 1.0)
     thor (1.1.0)
@@ -240,7 +242,7 @@ DEPENDENCIES
   rails (~> 6.1.4, >= 6.1.4.1)
   simple_token_authentication (~> 1.0)
   spring
-  sqlite3 (~> 1.4)
+  sqlite3 (~> 1.6)
   tzinfo-data
 
 RUBY VERSION
