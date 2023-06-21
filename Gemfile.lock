@@ -78,7 +78,7 @@ GEM
     case_transform (0.2)
       activesupport
     climate_control (0.2.0)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.2.2)
     counter_culture (2.9.0)
       activerecord (>= 4.2)
       activesupport (>= 4.2)
@@ -112,9 +112,9 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     ffi (1.15.3)
-    globalid (0.5.2)
+    globalid (1.1.0)
       activesupport (>= 5.0)
-    i18n (1.8.10)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     json (2.5.1)
     jsonapi-renderer (0.2.2)
@@ -139,7 +139,7 @@ GEM
       nokogiri (~> 1)
       rake
     mini_mime (1.1.1)
-    minitest (5.14.4)
+    minitest (5.18.1)
     msgpack (1.4.2)
     multipart-post (2.1.1)
     nio4r (2.5.8)
@@ -211,7 +211,7 @@ GEM
     terrapin (0.6.0)
       climate_control (>= 0.0.3, < 1.0)
     thor (1.1.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     uniform_notifier (1.13.0)
     warden (1.2.9)
@@ -219,7 +219,7 @@ GEM
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.4.2)
+    zeitwerk (2.6.8)
 
 PLATFORMS
   x86_64-linux
