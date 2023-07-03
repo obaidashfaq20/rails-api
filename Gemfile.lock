@@ -203,7 +203,7 @@ GEM
       actionmailer (>= 3.2.6, < 8)
       actionpack (>= 3.2.6, < 8)
       devise (>= 3.2, < 6)
-    spring (2.1.1)
+    spring (3.1.1)
     sprockets (4.2.0)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
