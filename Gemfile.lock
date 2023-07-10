@@ -125,9 +125,9 @@ GEM
       net-smtp
     marcel (1.0.2)
     method_source (1.0.0)
-    mime-types (3.3.1)
+    mime-types (3.4.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2021.0704)
+    mime-types-data (3.2023.0218.1)
     mimemagic (0.3.10)
       nokogiri (~> 1)
       rake
@@ -149,7 +149,7 @@ GEM
     nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    paperclip (6.0.0)
+    paperclip (6.1.0)
       activemodel (>= 4.2.0)
       activesupport (>= 4.2.0)
       mime-types
@@ -241,7 +241,7 @@ DEPENDENCIES
   faker
   koala
   listen (~> 3.8)
-  paperclip (~> 6.0.0)
+  paperclip (~> 6.1.0)
   puma (~> 6.3)
   rack-cors
   rails (~> 6.1.7)
