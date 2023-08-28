@@ -65,7 +65,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-    addressable (2.8.4)
+    addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
     bcrypt (3.1.19)
     bootsnap (1.16.0)
@@ -93,7 +93,7 @@ GEM
     erubi (1.12.0)
     faker (2.22.0)
       i18n (>= 1.8.11, < 2)
-    faraday (2.7.7)
+    faraday (2.7.10)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-multipart (1.0.4)
@@ -106,7 +106,7 @@ GEM
       concurrent-ruby (~> 1.0)
     json (2.6.3)
     jsonapi-renderer (0.2.2)
-    koala (3.4.0)
+    koala (3.5.0)
       addressable
       faraday
       faraday-multipart
@@ -155,7 +155,7 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
       terrapin (~> 0.6.0)
-    public_suffix (5.0.1)
+    public_suffix (5.0.3)
     puma (6.3.1)
       nio4r (~> 2.0)
     racc (1.7.1)
@@ -198,7 +198,7 @@ GEM
     responders (3.1.0)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.2.5)
+    rexml (3.2.6)
     ruby2_keywords (0.0.5)
     simple_token_authentication (1.18.1)
       actionmailer (>= 3.2.6, < 8)
